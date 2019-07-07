@@ -10,5 +10,6 @@
 * COUNTRY (required) - two digit ISO country code, as found [here](https://countrycode.org/)
 * STATE (optional) - if in the US, the 2 letter state code
 * CITY (optional) - location of the school, can even be provided for online programs
+* AREA (optional) - scientific field focus: CS-Computer Science, IS-Information Science, Business, Math, Stat, Health, Interdisciplinar, Engineering
 * DEPARTMENT (optional) - the school department responsible for the program
 * URL (required) - an active link to a school webpage describing the program in more detail
